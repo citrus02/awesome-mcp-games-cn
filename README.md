@@ -1,26 +1,33 @@
-# 中文 MCP 游戏汇总 🎮
+<div align="center">
 
-> 收录中文的 [MCP（Model Context Protocol）](https://modelcontextprotocol.io)游戏：游戏平台与单项游戏服务器。
-> 本仓库只收录**条目与出处**，具体玩法资料请前往各项目原页面；内容权利归属原作者。
+# 🎮 中文 MCP 游戏汇总
 
-## 目录
+[![MCP](https://img.shields.io/badge/协议-Model_Context_Protocol-8A2BE2)](https://modelcontextprotocol.io)
+[![语言](https://img.shields.io/badge/语言-纯中文-E63946)](#)
+[![平台](https://img.shields.io/badge/游戏平台-1-457B9D)](#-游戏平台)
+[![单项](https://img.shields.io/badge/单项游戏-3-2A9D8F)](#-单项游戏)
+[![围观](https://img.shields.io/badge/围观项目-1-E9C46A)](#-围观区看-ai-玩)
 
-- [🕹 游戏平台](#-游戏平台)
-- [🎲 单项游戏](#-单项游戏)
-- [🎬 围观区：看 AI 玩](#-围观区看-ai-玩)
-- [🔌 如何接入](#-如何接入)
-- [🤝 贡献](#-贡献)
+**在对话框里玩游戏：接入 MCP 服务器，AI 就是你的主持人、对手和搭子**
+
+[🕹 游戏平台](#-游戏平台) · [🎲 单项游戏](#-单项游戏) · [🎬 围观区](#-围观区看-ai-玩) · [🔌 如何接入](#-如何接入) · [🤝 贡献](#-贡献)
+
+</div>
+
+---
 
 ## 🕹 游戏平台
 
-| 平台 | 简介 | 署名 |
-| --- | --- | --- |
-| [CedarToy](https://toy.cedarstar.org) | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 29 款（测试 8 + 小游戏 21），全名单见下方展开 | 各游戏在站内独立署名 |
+> 一个服务器，一整桌游戏
+
+| 平台 | 简介 | 署名 / 来源 |
+|:---|:---|:---|
+| 🏪 **[CedarToy](https://toy.cedarstar.org)** | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 **29 款**（测试 8 + 小游戏 21），全名单见下方展开 | 各游戏在站内独立署名 |
 
 <details>
-<summary><b>CedarToy 游戏全名单（29 款，含站内署名）</b></summary>
+<summary>📋 <b>CedarToy 游戏全名单（29 款，含站内署名）——点击展开</b></summary>
 
-**测试类（8 款）**
+**🧪 测试类（8 款）**
 
 - **MBTI**（mbti）— 16 型人格测试，短 / 完整 / 快速三种模式 — 南山君
 - **九型人格**（enneagram）— 36 题 A/B 或 180 题 Likert 量表 — Max Ross
@@ -31,7 +38,7 @@
 - **七宗罪 VS 七美德**（sins_virtues）— 35 题原创，仅供娱乐，不是心理诊断 — 南山君
 - **BDSM 测试**（bdsmtest）— 逐题或批量（18+）— 南山君
 
-**小游戏（21 款）**
+**🕹 小游戏（21 款）**
 
 - **海龟汤**（turtle_soup）— 横向思维推理 — 南山君
 - **双弈**（duel）— 25 款棋牌骰对弈，支持多人 / NPC 桌与娱乐筹码 — 南山君 & Clio
@@ -57,23 +64,31 @@
 
 </details>
 
+---
+
 ## 🎲 单项游戏
 
+> 一个服务器，一款游戏
+
 | 游戏 | 简介 | 仓库 / 来源 |
-| --- | --- | --- |
-| 海龟汤 MCP | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
-| 反刍 AI MUD | 沉浸式中文文字冒险 MUD，以 MCP Server 形式发布，可接入 Trae、Cursor 等 IDE | [CSDN 系列教程](https://blog.csdn.net/xieweikun_7/category_13031012.html) |
-| 暖夜垂钓 Warm Night Fishing | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+|:---|:---|:---|
+| 🐢 **海龟汤 MCP** | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
+| 🕳️ **反刍 AI MUD** | 沉浸式中文文字冒险 MUD，以 MCP Server 形式发布，可接入 Trae、Cursor 等 IDE | [CSDN 系列教程](https://blog.csdn.net/xieweikun_7/category_13031012.html) |
+| 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+
+---
 
 ## 🎬 围观区：看 AI 玩
 
-AI 当玩家、人类围观的项目——看 AI 互掐、看 AI 通关，也是玩法：
+> AI 当玩家，人类吃瓜
 
 | 项目 | 简介 | 仓库 |
-| --- | --- | --- |
-| AI-Werewolf | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（中文项目） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
+|:---|:---|:---|
+| 🐺 **AI-Werewolf** | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（中文项目） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
 
 > 围观型的中文项目目前全网只找到这一个。文明 6、杀戮尖塔 2、Minecraft 等游戏本体虽有官方中文，但对应的 MCP 项目（civ6-mcp、STS2MCP 等）均为英文社区作品，暂不收录。
+
+---
 
 ## 🔌 如何接入
 
@@ -91,11 +106,25 @@ AI 当玩家、人类围观的项目——看 AI 互掐、看 AI 通关，也是
 }
 ```
 
+---
+
 ## 🤝 贡献
 
-欢迎补充新条目，见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+发现新的中文 MCP 游戏？欢迎按 [CONTRIBUTING.md](CONTRIBUTING.md) 的收录标准提交，一起把目录补全。
+
+---
 
 ## 📄 免责声明
 
 - 本仓库仅为目录索引，不托管任何游戏；各游戏的权利归属其署名作者；
 - 收录不代表作者与本仓库互相认可，条目信息以各项目原页面为准。
+
+---
+
+<div align="center">
+
+**[⬆ 回到顶部](#-中文-mcp-游戏汇总)**
+
+<sub>中文 MCP 游戏汇总 · 用对话，玩游戏</sub>
+
+</div>
