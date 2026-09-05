@@ -22,7 +22,7 @@
 | 游戏 | 简介 | 仓库 / 来源 |
 |:---|:---|:---|
 | 🐢 **海龟汤 MCP** | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
-| 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+| 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子（源码未公开，需免费注册 Smithery 后托管接入，也可装进 Telegram / Slack） | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
 
 ---
 
