@@ -22,14 +22,14 @@
 
 | 平台 | 简介 | 署名 / 来源 |
 |:---|:---|:---|
-| 🏪 **[CedarToy](https://toy.cedarstar.org)** | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 **29 款**（测试 8 + 小游戏 21），全名单见下方展开 | 站内独立署名 · [平台开源](https://github.com/Zizuixixiang/cedartoy) |
+| 🏪 **[CedarToy](https://toy.cedarstar.org)** | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 **29 款**（测试 8 + 小游戏 21），全名单见下方展开 | 站内独立署名 · [Zizuixixiang/cedartoy](https://github.com/Zizuixixiang/cedartoy) |
 
 <details>
 <summary>📋 <b>CedarToy 游戏全名单（29 款，含站内署名）——点击展开</b></summary>
 
 **🧪 测试类（8 款）**
 
-> 测试实现引擎均在 [CedarToy 平台仓库](https://github.com/Zizuixixiang/cedartoy) 开源（bdsmtest 除外，它调用 bdsmtest.org 官方接口算分）。
+> 测试实现引擎均在 [Zizuixixiang/cedartoy](https://github.com/Zizuixixiang/cedartoy) 开源（bdsmtest 除外，它调用 bdsmtest.org 官方接口算分）。
 
 - **MBTI**（mbti）— 16 型人格测试，短 / 完整 / 快速三种模式 — 南山君
 - **九型人格**（enneagram）— 36 题 A/B 或 180 题 Likert 量表 — Max Ross
