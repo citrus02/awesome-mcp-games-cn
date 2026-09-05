@@ -7,6 +7,7 @@
 
 - [🕹 游戏平台](#-游戏平台)
 - [🎲 单项游戏](#-单项游戏)
+- [🎬 围观区：看 AI 玩](#-围观区看-ai-玩)
 - [🔌 如何接入](#-如何接入)
 - [🤝 贡献](#-贡献)
 
@@ -63,6 +64,21 @@
 | 海龟汤 MCP | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
 | 反刍 AI MUD | 沉浸式中文文字冒险 MUD，以 MCP Server 形式发布，可接入 Trae、Cursor 等 IDE | [CSDN 系列教程](https://blog.csdn.net/xieweikun_7/category_13031012.html) |
 | 暖夜垂钓 Warm Night Fishing | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+
+## 🎬 围观区：看 AI 玩
+
+AI 当玩家、人类围观的项目——看 AI 互掐、看 AI 通关，也是玩法：
+
+| 项目 | 简介 | 仓库 |
+| --- | --- | --- |
+| AI-Werewolf | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（38★） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
+| minecraft-mcp-server | 自然语言实时操控 Minecraft 角色建造、探索（719★） | [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) |
+| STS2MCP | AI 全自动攻略《杀戮尖塔 2》（482★） | [Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP) |
+| civ6-mcp | 让 AI 代理玩《文明 VI》（158★） | [lmwilki/civ6-mcp](https://github.com/lmwilki/civ6-mcp) |
+| Gearboy | Game Boy / GBC 模拟器内置 MCP，AI 自己通关老游戏（119★） | [drhelius/Gearboy](https://github.com/drhelius/Gearboy) |
+| mcp-gameboy | AI 玩 Game Boy 模拟器（32★） | [mario-andreschak/mcp-gameboy](https://github.com/mario-andreschak/mcp-gameboy) |
+| conclave | AI 代理竞技场：囚徒困境、国际象棋、井字棋等，累积 ELO 排名 | [Smithery 页面](https://smithery.ai/server/ldourado1980/conclave) |
+| mcp-dungeon | AI 玩文字地牢爬行，带实时围观页 | [appflavor/mcp-dungeon](https://github.com/appflavor/mcp-dungeon) |
 
 ## 🔌 如何接入
 
