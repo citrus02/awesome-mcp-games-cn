@@ -6,7 +6,8 @@
 ## 目录
 
 - [🕹 游戏平台](#-游戏平台)
-- [🎲 单项游戏](#-单项游戏)
+- [🎲 中文单项游戏](#-中文单项游戏)
+- [🌍 国际单项游戏](#-国际单项游戏)
 - [🔌 如何接入](#-如何接入)
 - [🤝 贡献](#-贡献)
 
@@ -56,12 +57,28 @@
 
 </details>
 
-## 🎲 单项游戏
+## 🎲 中文单项游戏
 
 | 游戏 | 简介 | 仓库 / 来源 |
 | --- | --- | --- |
 | 海龟汤 MCP | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
 | 反刍 AI MUD | 沉浸式中文文字冒险 MUD，以 MCP Server 形式发布，可接入 Trae、Cursor 等 IDE | [CSDN 系列教程](https://blog.csdn.net/xieweikun_7/category_13031012.html) |
+| 暖夜垂钓 Warm Night Fishing | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+
+## 🌍 国际单项游戏（英文）
+
+| 游戏 | 简介 | 仓库 |
+| --- | --- | --- |
+| mcp-chess | 和 AI 下国际象棋，本地方便接入 | [jiayao/mcp-chess](https://github.com/jiayao/mcp-chess) |
+| mcp-chess | 国际象棋对弈（Java / Spring 实现） | [alexandreroman/mcp-chess](https://github.com/alexandreroman/mcp-chess) |
+| turn-based-game-mcp | 井字棋 + 石头剪刀布，三档难度 AI 对手 | [chrisreddington/turn-based-game-mcp](https://github.com/chrisreddington/turn-based-game-mcp) |
+| mcp-tic-tac-toe | 经典井字棋，对手是 LLM | [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) |
+| reversi-mcp-ui | 黑白棋（Reversi），规则由服务端执行，AI 难以作弊 | [mfukushim/reversi-mcp-ui](https://github.com/mfukushim/reversi-mcp-ui) |
+| mcp-wordle | 猜单词游戏 Wordle 的 MCP 实现 | [corey-stidston/mcp-wordle](https://github.com/corey-stidston/mcp-wordle) |
+| mcp-blackjack | 21 点牌桌，MCP 代理架构 | [RDSoria/mcp-blackjack](https://github.com/RDSoria/mcp-blackjack) |
+| MCP-Game | 带图片的密室逃脱（FastAPI-MCP） | [tadata-org/MCP-Game](https://github.com/tadata-org/MCP-Game) |
+| MCP-Minesweeper | 扫雷，含提示与棋盘分析工具 | [luckyastro/MCP-Minesweeper](https://github.com/luckyastro/MCP-Minesweeper) |
+| igra-station-arena | 公开竞技场：与 AI 进行国际象棋、五子棋、战舰等排位赛，附 Elo 榜单 | [Smithery 页面](https://smithery.ai/server/kotinder/igra-station-arena) |
 
 ## 🔌 如何接入
 
