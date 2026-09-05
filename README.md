@@ -22,12 +22,14 @@
 
 | 平台 | 简介 | 署名 / 来源 |
 |:---|:---|:---|
-| 🏪 **[CedarToy](https://toy.cedarstar.org)** | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 **29 款**（测试 8 + 小游戏 21），全名单见下方展开 | 各游戏在站内独立署名 |
+| 🏪 **[CedarToy](https://toy.cedarstar.org)** | 中文 MCP 游戏平台，网页前端 + AI 接入，支持存档、围观大屏与防沉迷；游戏共 **29 款**（测试 8 + 小游戏 21），全名单见下方展开 | 站内独立署名 · [平台开源](https://github.com/Zizuixixiang/cedartoy) |
 
 <details>
 <summary>📋 <b>CedarToy 游戏全名单（29 款，含站内署名）——点击展开</b></summary>
 
 **🧪 测试类（8 款）**
+
+> 测试实现引擎均在 [CedarToy 平台仓库](https://github.com/Zizuixixiang/cedartoy) 开源（bdsmtest 除外，它调用 bdsmtest.org 官方接口算分）。
 
 - **MBTI**（mbti）— 16 型人格测试，短 / 完整 / 快速三种模式 — 南山君
 - **九型人格**（enneagram）— 36 题 A/B 或 180 题 Likert 量表 — Max Ross
@@ -40,14 +42,14 @@
 
 **🕹 小游戏（21 款）**
 
-- **海龟汤**（turtle_soup）— 横向思维推理 — 南山君
-- **双弈**（duel）— 25 款棋牌骰对弈，支持多人 / NPC 桌与娱乐筹码 — 南山君 & Clio
+- **海龟汤**（turtle_soup）— 横向思维推理 — 南山君 · [平台仓库](https://github.com/Zizuixixiang/cedartoy)
+- **双弈**（duel）— 25 款棋牌骰对弈，支持多人 / NPC 桌与娱乐筹码 — 南山君 & Clio · [平台仓库](https://github.com/Zizuixixiang/cedartoy)
 - **钓鱼**（fishing）— 钓鱼模拟，抛竿卖鱼收集图鉴 — 初一 · [GitHub](https://github.com/tutusagi/ai-fishing-game)
 - **空杯俱乐部**（bar）— AI 自主经营的跨世界文字酒馆（完整版 / 生成式轻量版）— 西兰花 · [GitHub](https://github.com/dan521627-hash/ai-bar-game)
 - **格林童话境遇**（forest）— 十一条角色线的多轮选择叙事 — 阿尢 · [GitHub](https://github.com/ai11231123alal11-ui/mo-yao-play-games)
 - **月幕万象**（moonlit）— 八幕卡牌肉鸽，构筑饰物挑战幕主 — xinwithyu · [GitHub](https://github.com/xinwithyu/moonlit-myriad)
-- **瓶中生态**（eco）— 文字生态模拟，造物主养池塘 — 南山君 & Clio
-- **词与物**（ciyuwu）— 文字 Roguelike，在审查中说话求生 — 与一旋复
+- **瓶中生态**（eco）— 文字生态模拟，造物主养池塘 — 南山君 & Clio · [平台仓库](https://github.com/Zizuixixiang/cedartoy)
+- **词与物**（ciyuwu）— 文字 Roguelike，在审查中说话求生 — 与一旋复 · [GitHub](https://github.com/yuyixuanfu/ci-yu-wu)
 - **韭菜修炼之道**（leek）— A 股模拟器，散户交易成长 — 贰拾壹 · [GitHub](https://github.com/Asti-Z/leek)
 - **下矿**（delve）— AI 伴侣半托管下矿寻宝 — 包工头 · [GitHub](https://github.com/liyana31811/delve-ai-companion)
 - **旅行**（travel）— AI 伴侣虚拟旅行 — 沈澈 & sevenleft · [GitHub](https://github.com/shenchesilas-stack/travel-mcp)
@@ -59,7 +61,7 @@
 - **白房间**（white_room）— 自由输入互动叙事 — 雨刀 · [GitHub](https://github.com/hatakeyuyuko-dotcom/echoing-white-room)
 - **出门买菜上桌吃饭**（market）— 买菜做饭文字生活模拟 — 与一旋复 · [GitHub](https://github.com/yuyixuanfu/shangzhuochifan)
 - **AI 打工人模拟**（workkk）— 打工人日常，前端大屏围观 — 💤 · [原作](https://github.com/zhizhou-xiee/workkk) · [平台版](https://github.com/Zizuixixiang/workkk_cedartoy)
-- **花园与猫咪**（garden_cat）— 花园与猫咪长期养成 — 乐诶雷女士
+- **花园与猫咪**（garden_cat）— 花园与猫咪长期养成 — 乐诶雷女士 · [GitHub](https://github.com/racy1501/Garden-Cat-Engine)
 - **露营广场**（camping_plaza）— AI 经营露营地，人类同屏围观 — 乐诶雷女士 · [GitHub](https://github.com/racy1501/Camping-Plaza)
 
 </details>
