@@ -71,14 +71,9 @@ AI 当玩家、人类围观的项目——看 AI 互掐、看 AI 通关，也是
 
 | 项目 | 简介 | 仓库 |
 | --- | --- | --- |
-| AI-Werewolf | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（38★） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
-| minecraft-mcp-server | 自然语言实时操控 Minecraft 角色建造、探索（719★） | [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) |
-| STS2MCP | AI 全自动攻略《杀戮尖塔 2》（482★） | [Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP) |
-| civ6-mcp | 让 AI 代理玩《文明 VI》（158★） | [lmwilki/civ6-mcp](https://github.com/lmwilki/civ6-mcp) |
-| Gearboy | Game Boy / GBC 模拟器内置 MCP，AI 自己通关老游戏（119★） | [drhelius/Gearboy](https://github.com/drhelius/Gearboy) |
-| mcp-gameboy | AI 玩 Game Boy 模拟器（32★） | [mario-andreschak/mcp-gameboy](https://github.com/mario-andreschak/mcp-gameboy) |
-| conclave | AI 代理竞技场：囚徒困境、国际象棋、井字棋等，累积 ELO 排名 | [Smithery 页面](https://smithery.ai/server/ldourado1980/conclave) |
-| mcp-dungeon | AI 玩文字地牢爬行，带实时围观页 | [appflavor/mcp-dungeon](https://github.com/appflavor/mcp-dungeon) |
+| AI-Werewolf | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（中文项目） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
+
+> 围观型的中文项目目前全网只找到这一个。文明 6、杀戮尖塔 2、Minecraft 等游戏本体虽有官方中文，但对应的 MCP 项目（civ6-mcp、STS2MCP 等）均为英文社区作品，暂不收录。
 
 ## 🔌 如何接入
 
