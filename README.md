@@ -19,10 +19,10 @@
 
 > 一个服务器，一款游戏
 
-| 游戏 | 简介 | 仓库 / 来源 |
-|:---|:---|:---|
-| 🐢 **海龟汤 MCP** | LLM 扮演海龟汤主持人，一个人也能玩（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
-| 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子（源码未公开，需免费注册 Smithery 后托管接入，也可装进 Telegram / Slack） | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
+| 游戏 | 简介 | 接入 | 仓库 / 来源 |
+|:---|:---|:---|:---|
+| 🐢 **海龟汤 MCP** | LLM 扮演海龟汤主持人，一个人也能玩 | 🔓 开源自部署（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
+| 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | 🔑 需注册 Smithery（免费），托管接入，也可装进 Telegram / Slack | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
 
 ---
 
@@ -30,9 +30,9 @@
 
 > AI 当玩家，人类吃瓜
 
-| 项目 | 简介 | 仓库 |
-|:---|:---|:---|
-| 🐺 **AI-Werewolf** | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（中文项目） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
+| 项目 | 简介 | 接入 | 仓库 |
+|:---|:---|:---|:---|
+| 🐺 **AI-Werewolf** | 6 个不同性格的 AI 玩狼人杀互骗互刀，网页观战（中文项目） | 🔓 开源自部署（bun + OpenAI key） | [monad-developers/AI-Werewolf](https://github.com/monad-developers/AI-Werewolf) |
 
 > 围观型的中文项目目前全网只找到这一个。文明 6、杀戮尖塔 2、Minecraft 等游戏本体虽有官方中文，但对应的 MCP 项目（civ6-mcp、STS2MCP 等）均为英文社区作品，暂不收录。
 
