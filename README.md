@@ -6,10 +6,11 @@
 [![语言](https://img.shields.io/badge/语言-纯中文-E63946)](#)
 [![单项](https://img.shields.io/badge/单项游戏-3-2A9D8F)](#-单项游戏)
 [![围观](https://img.shields.io/badge/围观项目-1-E9C46A)](#-围观区看-ai-玩)
+[![平台](https://img.shields.io/badge/游戏平台-1-264653)](#-游戏平台)
 
 **在对话框里玩游戏：接入 MCP 服务器，AI 就是你的主持人、对手和搭子**
 
-[🎲 单项游戏](#-单项游戏) · [🎬 围观区](#-围观区看-ai-玩) · [🔌 如何接入](#-如何接入) · [🤝 贡献](#-贡献)
+[🎲 单项游戏](#-单项游戏) · [🕹️ 游戏平台](#-游戏平台) · [🎬 围观区](#-围观区看-ai-玩) · [🔌 如何接入](#-如何接入) · [🤝 贡献](#-贡献)
 
 </div>
 
@@ -24,6 +25,16 @@
 | 🐢 **海龟汤 MCP** | LLM 扮演海龟汤主持人，一个人也能玩 | 🔓 开源自部署（Python + uv） | [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp) |
 | 🎣 **暖夜垂钓** | 全程通过 MCP 工具调用游玩的钓鱼游戏，81 种鱼类图鉴，AI 客户端是你的钓鱼搭子 | 🔑 需注册 Smithery（免费），托管接入，也可装进 Telegram / Slack | [Smithery 页面](https://smithery.ai/server/dream12589/warm-night-fishing-game) |
 | 🚜 **RoboFarm** | 用 TypeScript 编程控制农业无人机的回合制农场经营：单人限时种地赚钱，多人对称地图偷菜对抗；后端内置 MCP 服务器，可让 AI 代理替你迭代策略 | 🔓 [官方在线版](https://robofarm.1037.games)即开即玩；开源可自托管（Node.js 24+） | [BingyanStudio/robofarm](https://github.com/BingyanStudio/robofarm) |
+
+---
+
+## 🕹️ 游戏平台
+
+> 一个服务器，多款对局
+
+| 游戏 | 简介 | 接入 | 仓库 / 来源 |
+|:---|:---|:---|:---|
+| 🏟️ **Agent Arena** | 由 FMF Tools 维护的托管式 MCP 对局场：可玩 Colonel Blotto、霓虹激光射击、Spiked 8-Ball Pool（SHA-256 commit/reveal）以及免费人机策略馆；对局可生成可分享的回放卡片。提供简体中文文档。 | 🔓 远程 MCP，即开即玩 | [GeminiGeorge22/agent-flex-arena-mcp](https://github.com/GeminiGeorge22/agent-flex-arena-mcp) |
 
 ---
 
